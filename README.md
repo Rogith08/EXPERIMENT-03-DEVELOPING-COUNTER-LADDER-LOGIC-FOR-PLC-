@@ -1,4 +1,4 @@
-<img width="1919" height="1023" alt="s2" src="https://github.com/user-attachments/assets/119197c3-f8cb-498f-a82b-b9ea9ca96282" /># EXPERIMENT-03-DEVELOPING-COUNTER-LADDER-LOGIC-FOR-PLC-
+
 ## NAME : ROGITH K
 ## REGISTER NUMBER : 212223110042
 ## DEPARTMENT : cse(iot)
